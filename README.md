@@ -26,3 +26,7 @@ Observability가 다루는 데이터 유형, 흔히 **MELT**라고 불리는 네
 - 설정 파일을 통한 일관성 및 추적의 용이성 보장
 - 배포 자동화 가능
 - 협업 효율성 증대
+
+## 구현 환경 및 사용한 기술
+![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
